@@ -1,0 +1,3 @@
+../Src/waveforms.c:25:6:SineWave	2
+../Src/waveforms.c:38:6:SquareWave	3
+../Src/waveforms.c:51:6:TriangleWave	3

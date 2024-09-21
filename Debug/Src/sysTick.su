@@ -1,0 +1,5 @@
+../Src/sysTick.c:15:6:SysTick_Init	4	static
+../Src/sysTick.c:23:6:SysTick_Handler	4	static
+../Src/sysTick.c:28:6:delay_ms	16	static
+../Src/sysTick.c:33:10:getMillis	4	static
+../Src/sysTick.c:36:6:Delay	16	static
